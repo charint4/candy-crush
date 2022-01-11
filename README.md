@@ -4,7 +4,8 @@ Im trying a tutorial where we create a replica of candy crush game with react
 
 ## How to download and run
 
-You can download the project from github or if you have git in your local computer you can clone this repo with `git clone "https://github.com/charint4/candy-crush" `
+You can download the project from github or if you have git in your local computer you can clone this repo with
+`git clone "https://github.com/charint4/candy-crush" `
 
 You also need to install npm so you can run `npm install` on your terminal.
 After that you just need to run `npm run start` on terminal to run the project.
